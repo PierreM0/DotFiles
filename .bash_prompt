@@ -1,0 +1,3 @@
+#just my bash prompt
+
+export PS1="\[\033[38;5;43m\]\A\[$(tput sgr0)\]: \[$(tput sgr0)\]\[\033[38;5;39m\]\u\[$(tput sgr0)\]@\h:\[$(tput sgr0)\]\[\033[38;5;6m\][\w]\[$(tput sgr0)\]:\[$(tput sgr0)\]\[\033[38;5;6m\]{\v}\[$(tput sgr0)\] \\$ \[$(tput sgr0)\]"
