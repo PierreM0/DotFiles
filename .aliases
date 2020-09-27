@@ -12,6 +12,7 @@ alias .....='cd ../../../..'
 alias d='cd ~/Documents'
 alias dl='cd ~/Downloads'
 alias dk='cd ~/Desktop'
+alias gt='cd ~/git'
 
 #ls colorized
 alias ls='ls --color'
