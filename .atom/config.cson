@@ -1,0 +1,14 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "nord-atom-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 11
+  "exception-reporting":
+    userId: "ecfac3da-ed0b-4c9a-a90b-e3c5a82bca91"
+  "nord-atom-ui": {}
+  welcome:
+    showOnStartup: false

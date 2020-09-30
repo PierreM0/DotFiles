@@ -1,0 +1,245 @@
+ReadyRc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex'
+      'LesBouleversementMondiaux_1929-1945.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Histoire"  "/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texmf-dist/tex/latex/marginnote/marginnote.sty) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) ){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf (5 pages, 158017 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log.
+Latexmk: Log file says output to 'LesBouleversementMondiaux_1929-1945.pdf'
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux'
+      'LesBouleversementMondiaux_1929-1945.aux'
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Histoire"  "/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex"'
+------------
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texmf-dist/tex/latex/marginnote/marginnote.sty) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) ){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf (5 pages, 158017 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log.
+Latexmk: Log file says output to 'LesBouleversementMondiaux_1929-1945.pdf'
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex'
+      'LesBouleversementMondiaux_1929-1945.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Histoire"  "/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texmf-dist/tex/latex/marginnote/marginnote.sty) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) ){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf (5 pages, 158023 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log.
+Latexmk: Log file says output to 'LesBouleversementMondiaux_1929-1945.pdf'
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux'
+      'LesBouleversementMondiaux_1929-1945.aux'
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Histoire"  "/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex"'
+------------
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texmf-dist/tex/latex/marginnote/marginnote.sty) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) ){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf (5 pages, 158023 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log.
+Latexmk: Log file says output to 'LesBouleversementMondiaux_1929-1945.pdf'
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex'
+      'LesBouleversementMondiaux_1929-1945.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Histoire"  "/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texmf-dist/tex/latex/marginnote/marginnote.sty) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex:83: Misplaced alignment tab character &.
+l.83 ...i succeder n'est pas encore décidé. 1 l&
+                                                   fin de la guerre civile, ...
+[5] (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf (5 pages, 162872 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log.
+Latexmk: Log file says output to 'LesBouleversementMondiaux_1929-1945.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Histoire"  "/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texmf-dist/tex/latex/marginnote/marginnote.sty) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex:83: Misplaced alignment tab character &.
+l.83 ...i succeder n'est pas encore décidé. 1 l&
+                                                   fin de la guerre civile, ...
+[5] (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf (5 pages, 162870 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log.
+Latexmk: References changed.
+Latexmk: Log file says output to 'LesBouleversementMondiaux_1929-1945.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux'
+      '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex'
+      'LesBouleversementMondiaux_1929-1945.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Histoire"  "/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texmf-dist/tex/latex/marginnote/marginnote.sty) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux) ){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf (5 pages, 162955 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log.
+Latexmk: Log file says output to 'LesBouleversementMondiaux_1929-1945.pdf'
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf) are up-to-date

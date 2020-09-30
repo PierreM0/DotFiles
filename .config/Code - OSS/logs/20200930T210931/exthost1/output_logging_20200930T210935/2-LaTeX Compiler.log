@@ -1,0 +1,900 @@
+ReadyRc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.18     \smallbreak
+                    
+
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:23: LaTeX Error: Command \end{defsuiteconv} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \end{defsuiteconv}
+                       
+
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:23: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \end{defsuiteconv}
+                       
+
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:23: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \end{defsuiteconv}
+                       
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:23: Missing $ inserted.
+<inserted text> 
+                $
+l.23 \end{defsuiteconv}
+                       
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 121430 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.18     \smallbreak
+                    
+
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:23: LaTeX Error: Command \end{defsuiteconv} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \end{defsuiteconv}
+                       
+
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:23: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \end{defsuiteconv}
+                       
+
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:23: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \end{defsuiteconv}
+                       
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:23: Missing $ inserted.
+<inserted text> 
+                $
+l.23 \end{defsuiteconv}
+                       
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 121430 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.18     \smallbreak
+                    
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 121438 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.18     \smallbreak
+                    
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 121438 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+l.24 On notera $] l-\epsilon
+                             ; l+\epsilon[$ ces inter
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 122000 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+l.24 On notera $] l-\epsilon
+                             ; l+\epsilon[$ ces inter
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 122000 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 \end{document}
+                   
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 121438 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Missing } inserted.
+<inserted text> 
+                }
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:18: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.18     \smallbreak
+                    
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 \end{document}
+                   
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 121438 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 \end{document}
+                   
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 121438 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 \end{document}
+                   
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 121438 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) ){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 121438 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:30: Missing $ inserted.
+<inserted text> 
+                $
+l.30     \iff
+              $\frac{1}{n+1} < \epsilon$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:30: Missing $ inserted.
+<inserted text> 
+                $
+l.30     \iff $\frac{1}{n+1}
+                             < \epsilon$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:30: Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
+                                                 
+l.30     \iff $\frac{1}{n+1}
+                             < \epsilon$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32     \iff
+              $n > \frac{1}{\epsilon}-1$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32     \iff $n > \frac{1}{\epsilon}
+                                     -1$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:32: Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
+                                                 
+l.32     \iff $n > \frac{1}{\epsilon}
+                                     -1$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:35: Missing } inserted.
+<inserted text> 
+                }
+l.35 \end{exdefsuiteconv}
+                         
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:35: Missing } inserted.
+<inserted text> 
+                }
+l.35 \end{exdefsuiteconv}
+                         
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 127886 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:30: Missing $ inserted.
+<inserted text> 
+                $
+l.30     \iff
+              $\frac{1}{n+1} < \epsilon$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:30: Missing $ inserted.
+<inserted text> 
+                $
+l.30     \iff $\frac{1}{n+1}
+                             < \epsilon$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:30: Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
+                                                 
+l.30     \iff $\frac{1}{n+1}
+                             < \epsilon$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32     \iff
+              $n > \frac{1}{\epsilon}-1$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32     \iff $n > \frac{1}{\epsilon}
+                                     -1$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:32: Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
+                                                 
+l.32     \iff $n > \frac{1}{\epsilon}
+                                     -1$
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:35: Missing } inserted.
+<inserted text> 
+                }
+l.35 \end{exdefsuiteconv}
+                         
+/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex:35: Missing } inserted.
+<inserted text> 
+                }
+l.35 \end{exdefsuiteconv}
+                         
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 127886 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) ){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 127522 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty) (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux) ){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf (1 page, 127206 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Maths/Suite.log.
+Latexmk: Log file says output to 'Suite.pdf'
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex'
+      'la_force_du_destin.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Philo"  "/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd)
+
+LaTeX Warning: Command \' invalid in math mode on input line 44.
+
+
+Overfull \hbox (32.02705pt too wide) in paragraph at lines 44--45
+[]\T1/lmr/m/n/10 En fonc-tion de v�-ri-fi-ca-tion an-t�-rieure va-leur gra-du�e de 0 � 1$[]$ 
+[2] [3] [4] [5] (/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.pdf (5 pages, 116290 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.log.
+Latexmk: Log file says output to 'la_force_du_destin.pdf'
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux'
+      'la_force_du_destin.aux'
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Philo"  "/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex"'
+------------
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def) (/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux) (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd)
+
+LaTeX Warning: Command \' invalid in math mode on input line 44.
+
+
+Overfull \hbox (32.02705pt too wide) in paragraph at lines 44--45
+[]\T1/lmr/m/n/10 En fonc-tion de v�-ri-fi-ca-tion an-t�-rieure va-leur gra-du�e de 0 � 1$[]$ 
+[2] [3] [4] [5] (/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
+Output written on /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.pdf (5 pages, 116290 bytes).
+SyncTeX written on /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.synctex.gz.
+Transcript written on /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.log.
+Latexmk: Log file says output to 'la_force_du_destin.pdf'
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.pdf) are up-to-date
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Latexmk: All targets (/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.pdf) are up-to-date

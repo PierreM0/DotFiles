@@ -1,0 +1,716 @@
+[21:09:35] Initializing LaTeX Workshop.
+[21:09:35] Extension root: /home/pierrem/.vscode-oss/extensions/james-yu.latex-workshop-8.13.2
+[21:09:35] Creating PDF file watcher.
+[21:09:35] Creating LaTeX Workshop http and websocket server.
+[21:09:35] LaTeX Workshop initialized.
+[21:09:35] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:09:35] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:09:35] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:09:35] Root file changed: from undefined to /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:09:35] Start to find all dependencies.
+[21:09:35] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:09:35] Creating Bib file watcher.
+[21:09:35] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:09:35] Parse fls file.
+[21:09:35] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[21:09:36] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[21:09:36] Server created on 127.0.0.1:42745
+[21:09:36] Added to file watcher: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:09:36] Snippet data loaded.
+[21:09:36] LaTeX Workshop version: 8.13.2
+[21:09:36] Restoring the PDF viewer at the column 2 from the state: {"type":"state","state":{"path":"/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf","scale":"auto","scrollMode":0,"spreadMode":0,"scrollTop":3339,"scrollLeft":0,"trim":0}}
+[21:09:39] Handle data type: open
+[21:09:39] Preview PDF file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf
+[21:09:39] Handle data type: request_params
+[21:09:39] Sending the settings of the PDF viewer for initialization: {"type":"params","scale":"auto","trim":0,"scrollMode":0,"spreadMode":0,"hand":false,"invertMode":{"enabled":false,"brightness":1,"grayscale":0.6,"hueRotate":180,"invert":0,"sepia":0},"bgColor":"#ffffff","keybindings":{"synctex":"ctrl-click"}}
+[21:09:40] Handle data type: loaded
+[21:14:32] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:14:32] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:14:33] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:14:33] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:14:33] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:14:33] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:14:33] Root file changed: from /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex to /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:14:33] Start to find all dependencies.
+[21:14:33] Root file changed -> cleaning up old file watcher.
+[21:14:33] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:14:33] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:14:33] Parse fls file.
+[21:14:33] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.fls
+[21:14:33] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.aux
+[21:14:33] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex.
+[21:14:33] Added to file watcher: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:14:49] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:14:49] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:14:49] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:14:49] Root file changed: from /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex to /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:14:49] Start to find all dependencies.
+[21:14:49] Root file changed -> cleaning up old file watcher.
+[21:14:49] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:14:49] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:14:49] Parse fls file.
+[21:14:49] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[21:14:49] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[21:14:49] Added to file watcher: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:14:53] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:14:53] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:14:53] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:14:53] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[21:14:54] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:14:54] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:14:54] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:14:54] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[21:14:55] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:14:55] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:14:55] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:14:55] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[21:14:56] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:14:56] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:14:56] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[21:14:56] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[21:15:04] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:15:04] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:15:04] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:15:04] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:15:05] Found files that might be root, choose the first one: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex,/home/pierrem/Documents/Tex/Cours/ENS/SVT.tex,/home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.tex,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex,/home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex,/home/pierrem/Documents/Tex/Cours/Maths/Recurence.tex,/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex,/home/pierrem/Documents/Tex/Cours/Philo/Introduction_a_la_philosophie.tex,/home/pierrem/Documents/Tex/Cours/Italien/Liste_des_axes.tex,/home/pierrem/Documents/Tex/Cours/MathsExp/LesNombresComplexes.tex,/home/pierrem/Documents/Tex/Cours/EMC/cours1EMC.tex
+[21:15:05] Root file changed: from /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex to /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex
+[21:15:05] Start to find all dependencies.
+[21:15:05] Root file changed -> cleaning up old file watcher.
+[21:15:05] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex
+[21:15:05] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex
+[21:15:05] Parse fls file.
+[21:15:05] Fls file found: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.fls
+[21:15:05] Parse aux file: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.aux
+[21:15:05] Found files that might be root, choose the first one: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex,/home/pierrem/Documents/Tex/Cours/ENS/SVT.tex,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex,/home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex,/home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.tex,/home/pierrem/Documents/Tex/Cours/Maths/Recurence.tex,/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex,/home/pierrem/Documents/Tex/Cours/Philo/Introduction_a_la_philosophie.tex,/home/pierrem/Documents/Tex/Cours/MathsExp/LesNombresComplexes.tex,/home/pierrem/Documents/Tex/Cours/Italien/Liste_des_axes.tex,/home/pierrem/Documents/Tex/Cours/EMC/cours1EMC.tex
+[21:15:05] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex.
+[21:15:05] Added to file watcher: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex
+[21:15:08] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:15:08] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:15:08] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:15:08] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:15:08] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:15:08] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:15:08] Root file changed: from /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex to /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:15:08] Start to find all dependencies.
+[21:15:08] Root file changed -> cleaning up old file watcher.
+[21:15:08] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:15:08] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:15:08] Parse fls file.
+[21:15:08] Cannot find fls file: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.fls
+[21:15:08] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex.
+[21:15:08] Added to file watcher: /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex
+[21:15:17] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:15:17] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:15:17] Found files that might be root, choose the first one: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex,/home/pierrem/Documents/Tex/Cours/ENS/SVT.tex,/home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.tex,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex,/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex,/home/pierrem/Documents/Tex/Cours/Philo/Introduction_a_la_philosophie.tex,/home/pierrem/Documents/Tex/Cours/Italien/Liste_des_axes.tex,/home/pierrem/Documents/Tex/Cours/MathsExp/LesNombresComplexes.tex,/home/pierrem/Documents/Tex/Cours/EMC/cours1EMC.tex,/home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex,/home/pierrem/Documents/Tex/Cours/Maths/Recurence.tex
+[21:15:17] Root file changed: from /home/pierrem/Documents/Tex/Cours/Maths/Combinatoire-et-dénombrement.tex to /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex
+[21:15:17] Start to find all dependencies.
+[21:15:17] Root file changed -> cleaning up old file watcher.
+[21:15:17] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex
+[21:15:17] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex
+[21:15:17] Parse fls file.
+[21:15:17] Fls file found: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.fls
+[21:15:17] Parse aux file: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.aux
+[21:15:17] Added to file watcher: /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex
+[21:25:12] BUILD command invoked.
+[21:25:12] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:25:12] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:25:12] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Root file changed: from /home/pierrem/Documents/Tex/Cours/ENS/phisique_maths.tex to /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Start to find all dependencies.
+[21:25:12] Root file changed -> cleaning up old file watcher.
+[21:25:12] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Parse fls file.
+[21:25:12] Cannot find fls file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:12] Building root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Added to file watcher: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Build root file /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:12] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:12] LaTeX build process spawned. PID: 19306.
+[21:25:12] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Parse fls file.
+[21:25:12] Cannot find fls file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:12] Auto Build Run is temporarily disabled during a second.
+[21:25:12] Cannot parse a TeX file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:12] Fall back to regex-based completion.
+[21:25:13] LaTeX log parsed with 7 messages.
+[21:25:13] Recipe returns with error: 12/null. PID: 19306. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:13] Cleaning auxiliary files and retrying build after toolchain error.
+[21:25:13] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:13] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:13] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.log
+[21:25:13] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fdb_latexmk
+[21:25:13] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:13] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:13] LaTeX build process spawned. PID: 19313.
+[21:25:14] LaTeX log parsed with 7 messages.
+[21:25:14] Recipe returns with error: 12/null. PID: 19313. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:17] BUILD command invoked.
+[21:25:17] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:25:17] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:25:17] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:17] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:25:17] Building root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:17] Build root file /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:18] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:18] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:18] LaTeX build process spawned. PID: 19317.
+[21:25:18] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:18] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:18] Parse fls file.
+[21:25:18] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:18] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:18] Auto Build Run is temporarily disabled during a second.
+[21:25:18] Cannot parse a TeX file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:18] Fall back to regex-based completion.
+[21:25:18] LaTeX log parsed with 3 messages.
+[21:25:18] Recipe returns with error: 12/null. PID: 19317. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:18] Cleaning auxiliary files and retrying build after toolchain error.
+[21:25:18] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:18] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:18] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.log
+[21:25:18] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fdb_latexmk
+[21:25:18] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:18] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:18] LaTeX build process spawned. PID: 19321.
+[21:25:20] LaTeX log parsed with 3 messages.
+[21:25:20] Recipe returns with error: 12/null. PID: 19321. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:24] BUILD command invoked.
+[21:25:24] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:25:24] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:25:24] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:24] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:25:24] Building root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:24] Build root file /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:24] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:24] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:24] LaTeX build process spawned. PID: 19325.
+[21:25:24] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:24] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:24] Parse fls file.
+[21:25:24] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:24] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:24] Auto Build Run is temporarily disabled during a second.
+[21:25:24] Cannot parse a TeX file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:24] Fall back to regex-based completion.
+[21:25:25] LaTeX log parsed with 4 messages.
+[21:25:25] Recipe returns with error: 12/null. PID: 19325. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:25] Cleaning auxiliary files and retrying build after toolchain error.
+[21:25:25] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:25] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.log
+[21:25:25] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:25] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fdb_latexmk
+[21:25:25] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:25] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:25] LaTeX build process spawned. PID: 19329.
+[21:25:26] LaTeX log parsed with 4 messages.
+[21:25:26] Recipe returns with error: 12/null. PID: 19329. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:33] BUILD command invoked.
+[21:25:33] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:25:33] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:25:33] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:33] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:25:33] Building root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:33] Build root file /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:33] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:33] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:33] LaTeX build process spawned. PID: 19335.
+[21:25:33] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:33] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:33] Parse fls file.
+[21:25:33] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:33] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:33] Auto Build Run is temporarily disabled during a second.
+[21:25:33] Cannot parse a TeX file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:33] Fall back to regex-based completion.
+[21:25:34] LaTeX log parsed with 4 messages.
+[21:25:34] Recipe returns with error: 12/null. PID: 19335. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:34] Cleaning auxiliary files and retrying build after toolchain error.
+[21:25:34] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:34] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:34] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.log
+[21:25:34] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fdb_latexmk
+[21:25:34] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:34] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:34] LaTeX build process spawned. PID: 19340.
+[21:25:35] LaTeX log parsed with 4 messages.
+[21:25:35] Recipe returns with error: 12/null. PID: 19340. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:47] BUILD command invoked.
+[21:25:47] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:25:47] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:25:47] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:47] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:25:47] Building root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:47] Build root file /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:47] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:47] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:47] LaTeX build process spawned. PID: 19346.
+[21:25:48] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:48] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:48] Parse fls file.
+[21:25:48] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:48] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:48] Auto Build Run is temporarily disabled during a second.
+[21:25:48] Cannot parse a TeX file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:48] Fall back to regex-based completion.
+[21:25:48] LaTeX log parsed with 1 messages.
+[21:25:48] Recipe returns with error: 12/null. PID: 19346. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.aux'
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:48] Cleaning auxiliary files and retrying build after toolchain error.
+[21:25:48] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:48] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:48] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.log
+[21:25:48] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fdb_latexmk
+[21:25:48] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:48] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:48] LaTeX build process spawned. PID: 19350.
+[21:25:49] LaTeX log parsed with 1 messages.
+[21:25:49] Recipe returns with error: 12/null. PID: 19350. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:25:54] BUILD command invoked.
+[21:25:54] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:25:54] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:25:54] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:54] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:25:54] Building root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:54] Build root file /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:55] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:25:55] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:25:55] LaTeX build process spawned. PID: 19388.
+[21:25:55] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:55] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:55] Parse fls file.
+[21:25:55] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:55] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:55] Auto Build Run is temporarily disabled during a second.
+[21:25:55] LaTeX log parsed with 0 messages.
+[21:25:55] Recipe of length 1 finished. PID: 19388.
+[21:25:55] Successfully built /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:25:55] No PDF viewer connected for /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf
+[21:25:55] Parse fls file.
+[21:25:55] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:25:55] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:25:57] VIEW command invoked with mode: file:///home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:25:57] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:25:57] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:25:57] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:57] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:25:57] Serving PDF file at http://localhost:42745/viewer.html?file=pdf..JTJGaG9tZSUyRnBpZXJyZW0lMkZEb2N1bWVudHMlMkZUZXglMkZDb3VycyUyRk1hdGhzJTJGU3VpdGUucGRm
+[21:25:57] The encoded path is /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf
+[21:25:57] Open PDF tab for /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf
+[21:25:58] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:25:58] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:25:58] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:25:58] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:25:58] Handle data type: open
+[21:25:58] Preview PDF file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf
+[21:25:59] Handle data type: request_params
+[21:25:59] Sending the settings of the PDF viewer for initialization: {"type":"params","scale":"auto","trim":0,"scrollMode":0,"spreadMode":0,"hand":false,"invertMode":{"enabled":false,"brightness":1,"grayscale":0.6,"hueRotate":180,"invert":0,"sepia":0},"bgColor":"#ffffff","keybindings":{"synctex":"ctrl-click"}}
+[21:25:59] Handle data type: loaded
+[21:26:14] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:26:14] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:26:14] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:26:14] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:35:17] BUILD command invoked.
+[21:35:17] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:35:17] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:35:17] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:35:17] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:35:17] Building root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:35:17] Build root file /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:35:17] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:35:17] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:35:17] LaTeX build process spawned. PID: 19740.
+[21:35:17] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:35:17] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:35:17] Parse fls file.
+[21:35:17] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:35:17] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:35:17] Auto Build Run is temporarily disabled during a second.
+[21:35:18] LaTeX log parsed with 8 messages.
+[21:35:18] Recipe returns with error: 12/null. PID: 19740. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex'
+      'Suite.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:35:18] Cleaning auxiliary files and retrying build after toolchain error.
+[21:35:18] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:35:18] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:35:18] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.log
+[21:35:18] File cleaned: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fdb_latexmk
+[21:35:18] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:35:18] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:35:18] LaTeX build process spawned. PID: 19750.
+[21:35:19] LaTeX log parsed with 8 messages.
+[21:35:19] Recipe returns with error: 12/null. PID: 19750. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Maths"  "/home/pierrem/Documents/Tex/Cours/Maths/Suite.tex"'
+------------
+Latexmk: Log file says output to 'Suite.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Maths/Suite.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[21:36:06] BUILD command invoked.
+[21:36:06] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:36:06] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:36:06] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:06] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:36:06] Building root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:06] Build root file /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:06] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:36:06] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:36:06] LaTeX build process spawned. PID: 19798.
+[21:36:06] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:06] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:06] Parse fls file.
+[21:36:06] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:36:06] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:36:06] Auto Build Run is temporarily disabled during a second.
+[21:36:07] LaTeX log parsed with 0 messages.
+[21:36:07] Recipe of length 1 finished. PID: 19798.
+[21:36:07] Successfully built /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:36:07] Refresh PDF viewer for /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf
+[21:36:07] Parse fls file.
+[21:36:07] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:36:07] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:36:07] Preview PDF file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf
+[21:36:08] Handle data type: loaded
+[21:36:42] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:42] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:42] Parse fls file.
+[21:36:42] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:36:42] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:36:42] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:42] BUILD command invoked.
+[21:36:42] Building root file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:42] Build root file /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[21:36:43] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Maths,/home/pierrem/Documents/Tex/Cours/Maths/Suite
+[21:36:43] cwd: /home/pierrem/Documents/Tex/Cours/Maths
+[21:36:43] LaTeX build process spawned. PID: 19817.
+[21:36:44] LaTeX log parsed with 0 messages.
+[21:36:44] Recipe of length 1 finished. PID: 19817.
+[21:36:44] Successfully built /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex.
+[21:36:44] Refresh PDF viewer for /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf
+[21:36:44] Parse fls file.
+[21:36:44] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[21:36:44] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[21:36:44] Preview PDF file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.pdf
+[21:36:44] Handle data type: loaded
+[21:42:30] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:42:30] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:42:30] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[21:42:30] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[21:42:30] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[21:42:31] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[21:42:31] Root file changed: from /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex to /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[21:42:31] Start to find all dependencies.
+[21:42:31] Root file changed -> cleaning up old file watcher.
+[21:42:31] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[21:42:31] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[21:42:31] Parse fls file.
+[21:42:31] Fls file found: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.fls
+[21:42:31] Parse aux file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux
+[21:42:31] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex.
+[21:42:31] Added to file watcher: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:20] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:20] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:20] Parse fls file.
+[22:00:20] Fls file found: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.fls
+[22:00:20] Parse aux file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux
+[22:00:20] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:20] BUILD command invoked.
+[22:00:20] Building root file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:20] Build root file /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:20] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Philo,/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin
+[22:00:20] cwd: /home/pierrem/Documents/Tex/Cours/Philo
+[22:00:20] LaTeX build process spawned. PID: 21005.
+[22:00:21] LaTeX log parsed with 2 messages.
+[22:00:21] Recipe of length 1 finished. PID: 21005.
+[22:00:21] Successfully built /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex.
+[22:00:21] No PDF viewer connected for /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.pdf
+[22:00:21] Parse fls file.
+[22:00:21] Fls file found: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.fls
+[22:00:21] Parse aux file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux
+[22:00:21] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:21] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:21] Parse fls file.
+[22:00:21] Fls file found: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.fls
+[22:00:21] Parse aux file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux
+[22:00:21] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:21] BUILD command invoked.
+[22:00:21] Building root file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:21] Build root file /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:22] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Philo,/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin
+[22:00:22] cwd: /home/pierrem/Documents/Tex/Cours/Philo
+[22:00:22] LaTeX build process spawned. PID: 21009.
+[22:00:22] Recipe of length 1 finished. PID: 21009.
+[22:00:22] Successfully built /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex.
+[22:00:27] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:27] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:27] Parse fls file.
+[22:00:27] Fls file found: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.fls
+[22:00:27] Parse aux file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux
+[22:00:27] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:27] BUILD command invoked.
+[22:00:27] Building root file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:27] Build root file /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:27] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Philo,/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin
+[22:00:27] cwd: /home/pierrem/Documents/Tex/Cours/Philo
+[22:00:27] LaTeX build process spawned. PID: 21011.
+[22:00:27] Recipe of length 1 finished. PID: 21011.
+[22:00:27] Successfully built /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex.
+[22:00:29] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:29] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:29] Parse fls file.
+[22:00:29] Fls file found: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.fls
+[22:00:29] Parse aux file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux
+[22:00:29] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:29] BUILD command invoked.
+[22:00:29] Building root file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:29] Build root file /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:29] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Philo,/home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin
+[22:00:29] cwd: /home/pierrem/Documents/Tex/Cours/Philo
+[22:00:29] LaTeX build process spawned. PID: 21013.
+[22:00:29] Recipe of length 1 finished. PID: 21013.
+[22:00:29] Successfully built /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex.
+[22:00:30] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:30] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:00:30] Parse fls file.
+[22:00:30] Fls file found: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.fls
+[22:00:30] Parse aux file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux
+[22:00:30] Auto Build Run is temporarily disabled during a second.
+[22:00:34] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[22:00:34] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[22:00:34] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[22:00:34] Root file changed: from /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex to /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[22:00:34] Start to find all dependencies.
+[22:00:34] Root file changed -> cleaning up old file watcher.
+[22:00:34] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[22:00:34] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[22:00:34] Parse fls file.
+[22:00:34] Fls file found: /home/pierrem/Documents/Tex/Cours/Maths/Suite.fls
+[22:00:34] Parse aux file: /home/pierrem/Documents/Tex/Cours/Maths/Suite.aux
+[22:00:34] Added to file watcher: /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex
+[22:07:04] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[22:07:04] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[22:07:04] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[22:07:04] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[22:07:04] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:07:04] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:07:04] Root file changed: from /home/pierrem/Documents/Tex/Cours/Maths/Suite.tex to /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:07:04] Start to find all dependencies.
+[22:07:04] Root file changed -> cleaning up old file watcher.
+[22:07:04] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:07:04] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex
+[22:07:04] Parse fls file.
+[22:07:04] Fls file found: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.fls
+[22:07:04] Parse aux file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.aux
+[22:07:04] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex.
+[22:07:04] Added to file watcher: /home/pierrem/Documents/Tex/Cours/Philo/la_force_du_destin.tex

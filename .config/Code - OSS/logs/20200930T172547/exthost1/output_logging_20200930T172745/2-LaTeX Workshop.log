@@ -1,0 +1,225 @@
+[17:27:45] Initializing LaTeX Workshop.
+[17:27:45] Extension root: /home/pierrem/.vscode-oss/extensions/james-yu.latex-workshop-8.13.2
+[17:27:45] Creating PDF file watcher.
+[17:27:45] Creating LaTeX Workshop http and websocket server.
+[17:27:45] LaTeX Workshop initialized.
+[17:27:45] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[17:27:45] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[17:27:45] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.tex
+[17:27:45] Root file changed: from undefined to /home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.tex
+[17:27:45] Start to find all dependencies.
+[17:27:45] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.tex
+[17:27:45] Creating Bib file watcher.
+[17:27:45] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.tex
+[17:27:45] Parse fls file.
+[17:27:45] Fls file found: /home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.fls
+[17:27:45] Parse aux file: /home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.aux
+[17:27:45] Server created on 127.0.0.1:33595
+[17:27:45] Added to file watcher: /home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.tex
+[17:27:45] LaTeX Workshop version: 8.13.2
+[17:27:45] Snippet data loaded.
+[17:27:48] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[17:27:48] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[17:27:48] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[17:27:48] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[17:27:48] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:27:48] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:27:48] Root file changed: from /home/pierrem/Documents/Tex/Cours/DNLHG/The_vietnam_war.tex to /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:27:48] Start to find all dependencies.
+[17:27:48] Root file changed -> cleaning up old file watcher.
+[17:27:48] Instantiating a new file watcher for /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:27:48] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:27:48] Parse fls file.
+[17:27:48] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[17:27:48] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[17:27:48] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[17:27:48] Added to file watcher: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:29:57] BUILD command invoked.
+[17:29:57] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[17:29:57] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[17:29:57] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:29:57] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[17:29:57] Building root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:29:57] Build root file /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:29:57] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Histoire,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945
+[17:29:57] cwd: /home/pierrem/Documents/Tex/Cours/Histoire
+[17:29:57] LaTeX build process spawned. PID: 10406.
+[17:29:57] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:29:57] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:29:57] Parse fls file.
+[17:29:57] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[17:29:57] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[17:29:57] Auto Build Run is temporarily disabled during a second.
+[17:29:59] LaTeX log parsed with 0 messages.
+[17:29:59] Recipe of length 1 finished. PID: 10406.
+[17:29:59] Successfully built /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[17:29:59] No PDF viewer connected for /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf
+[17:29:59] Parse fls file.
+[17:29:59] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[17:29:59] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[17:30:05] VIEW command invoked with mode: file:///home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[17:30:05] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[17:30:05] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[17:30:05] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:30:05] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[17:30:05] Serving PDF file at http://localhost:33595/viewer.html?file=pdf..JTJGaG9tZSUyRnBpZXJyZW0lMkZEb2N1bWVudHMlMkZUZXglMkZDb3VycyUyRkhpc3RvaXJlJTJGTGVzQm91bGV2ZXJzZW1lbnRNb25kaWF1eF8xOTI5LTE5NDUucGRm
+[17:30:05] The encoded path is /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf
+[17:30:06] Open PDF tab for /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf
+[17:30:06] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[17:30:06] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[17:30:06] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:30:06] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[17:30:07] Handle data type: open
+[17:30:07] Preview PDF file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf
+[17:30:07] Handle data type: request_params
+[17:30:07] Sending the settings of the PDF viewer for initialization: {"type":"params","scale":"auto","trim":0,"scrollMode":0,"spreadMode":0,"hand":false,"invertMode":{"enabled":false,"brightness":1,"grayscale":0.6,"hueRotate":180,"invert":0,"sepia":0},"bgColor":"#ffffff","keybindings":{"synctex":"ctrl-click"}}
+[17:30:08] Handle data type: loaded
+[17:30:24] Current workspace folders: ["file:///home/pierrem/Documents/Tex/Cours"]
+[17:30:24] Current workspaceRootDir: /home/pierrem/Documents/Tex/Cours
+[17:30:24] Found root file from active editor: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:30:24] Keep using the same root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[17:30:27] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:30:27] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:30:27] Parse fls file.
+[17:30:27] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[17:30:27] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[17:30:27] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:30:27] BUILD command invoked.
+[17:30:27] Building root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:30:27] Build root file /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[17:30:27] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Histoire,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945
+[17:30:27] cwd: /home/pierrem/Documents/Tex/Cours/Histoire
+[17:30:27] LaTeX build process spawned. PID: 10466.
+[17:30:29] LaTeX log parsed with 0 messages.
+[17:30:29] Recipe of length 1 finished. PID: 10466.
+[17:30:29] Successfully built /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[17:30:29] Refresh PDF viewer for /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf
+[17:30:29] Parse fls file.
+[17:30:29] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[17:30:29] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[17:30:29] Preview PDF file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf
+[17:30:30] Handle data type: loaded
+[18:08:46] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[18:08:46] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[18:08:46] Parse fls file.
+[18:08:46] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[18:08:46] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[18:08:46] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[18:08:46] BUILD command invoked.
+[18:08:46] Building root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[18:08:46] Build root file /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[18:08:46] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Histoire,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945
+[18:08:46] cwd: /home/pierrem/Documents/Tex/Cours/Histoire
+[18:08:46] LaTeX build process spawned. PID: 11078.
+[18:08:47] LaTeX log parsed with 1 messages.
+[18:08:47] Recipe returns with error: 12/null. PID: 11078. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex'
+      'LesBouleversementMondiaux_1929-1945.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Histoire"  "/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex"'
+------------
+Latexmk: Log file says output to 'LesBouleversementMondiaux_1929-1945.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:08:47] Cleaning auxiliary files and retrying build after toolchain error.
+[18:08:47] File cleaned: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[18:08:47] File cleaned: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[18:08:47] File cleaned: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log
+[18:08:47] File cleaned: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fdb_latexmk
+[18:08:47] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Histoire,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945
+[18:08:47] cwd: /home/pierrem/Documents/Tex/Cours/Histoire
+[18:08:47] LaTeX build process spawned. PID: 11081.
+[18:08:48] LaTeX log parsed with 2 messages.
+[18:08:48] Recipe returns with error: 12/null. PID: 11081. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/pierrem/Documents/Tex/Cours/Histoire"  "/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex"'
+------------
+Latexmk: References changed.
+Latexmk: Log file says output to 'LesBouleversementMondiaux_1929-1945.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[19:51:17] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:17] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:17] Parse fls file.
+[19:51:17] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[19:51:17] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[19:51:17] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:17] BUILD command invoked.
+[19:51:17] Building root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:17] Build root file /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:17] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Histoire,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945
+[19:51:17] cwd: /home/pierrem/Documents/Tex/Cours/Histoire
+[19:51:17] LaTeX build process spawned. PID: 11176.
+[19:51:18] LaTeX log parsed with 0 messages.
+[19:51:18] Recipe of length 1 finished. PID: 11176.
+[19:51:18] Successfully built /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[19:51:18] Refresh PDF viewer for /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf
+[19:51:18] Parse fls file.
+[19:51:18] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[19:51:18] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[19:51:18] Preview PDF file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.pdf
+[19:51:18] Handle data type: loaded
+[19:51:22] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:22] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:22] Parse fls file.
+[19:51:22] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[19:51:22] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[19:51:22] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:22] BUILD command invoked.
+[19:51:22] Building root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:22] Build root file /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:22] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Histoire,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945
+[19:51:22] cwd: /home/pierrem/Documents/Tex/Cours/Histoire
+[19:51:22] LaTeX build process spawned. PID: 11182.
+[19:51:22] Recipe of length 1 finished. PID: 11182.
+[19:51:22] Successfully built /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[19:51:23] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:23] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:23] Parse fls file.
+[19:51:23] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[19:51:23] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[19:51:23] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:23] BUILD command invoked.
+[19:51:23] Building root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:23] Build root file /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:23] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Histoire,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945
+[19:51:23] cwd: /home/pierrem/Documents/Tex/Cours/Histoire
+[19:51:23] LaTeX build process spawned. PID: 11184.
+[19:51:23] Recipe of length 1 finished. PID: 11184.
+[19:51:23] Successfully built /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
+[19:51:25] File watcher - file changed: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:25] Parsing a file and its subfiles: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:25] Parse fls file.
+[19:51:25] Fls file found: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.fls
+[19:51:25] Parse aux file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.aux
+[19:51:25] Auto build started detecting the change of a file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:25] BUILD command invoked.
+[19:51:25] Building root file: /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:25] Build root file /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex
+[19:51:25] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/pierrem/Documents/Tex/Cours/Histoire,/home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945
+[19:51:25] cwd: /home/pierrem/Documents/Tex/Cours/Histoire
+[19:51:25] LaTeX build process spawned. PID: 11187.
+[19:51:26] Recipe of length 1 finished. PID: 11187.
+[19:51:26] Successfully built /home/pierrem/Documents/Tex/Cours/Histoire/LesBouleversementMondiaux_1929-1945.tex.
