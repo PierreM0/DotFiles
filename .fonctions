@@ -1,0 +1,4 @@
+#better mkdir
+function mkd () {
+  mkdir -p "$@" && cd "$@"
+}
