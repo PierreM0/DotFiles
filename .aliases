@@ -17,7 +17,7 @@ alias gt='cd ~/git'
 #ls colorized
 alias ls='ls --color'
 alias ll='ls -lF --color'
-alias la='ls -la --color'
+alias la='ls -a --color'
 alias lal='ls -lAF --color'
 
 #grep colorized
